@@ -1,0 +1,74 @@
+body {
+  font-family: Dosis, sans-serif;
+  display: grid;
+  grid-row-gap: 2rem;
+}
+header {
+  display: grid;
+  grid-row-gap: 0.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 400;
+  color: #1d4563;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #1b1b1d;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+p {
+  font-size: 1rem;
+  color: #5a6677;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-column-gap: 1.5em;
+  grid-row-gap: 1.5em;
+}
+
+.feature {
+  display: grid;
+  grid-row-gap: 0.5em;
+  padding: 1em;
+  border-radius: 0.5em;
+  text-align: left;
+}
+
+#feature1 {
+  background-color: rgb(255, 211, 211);
+}
+
+#feature2 {
+  background-color: rgb(201, 201, 255);
+}
+
+#feature3 {
+  background-color: rgb(213, 255, 213);
+}
+
+#feature4 {
+  background-color: rgb(255, 210, 255);
+}
+
+a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1d4563;
+}

@@ -1,0 +1,28 @@
+# Exercise 10 — Feature Highlights
+
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-10-feature-highlights/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-10-feature-highlights)
+
+![Rendered preview](preview.png)
+
+## Why this exercise exists
+
+This is an independent practice project completed while working through Colt Steele’s *The HTML & CSS Bootcamp*. The course provides the ordered learning content; I use each exercise to reinforce the concept until it is understood, then apply it in a concrete interface and push beyond the minimum lesson where appropriate. Together, these projects document a deliberate progression toward stronger design-to-code fluency as a Product Designer.
+
+## Focus
+
+**Primary practice:** Repeated components and early Grid composition
+
+## What I built
+
+Four feature articles are organized as a grid using component classes and hover behavior, reinforcing repetition and consistent spacing.
+
+## Implementation notes
+
+- The page is a static HTML/CSS build with the original exercise content and visual treatment preserved for inspection.
+- The preview above is a rendered snapshot of the project; the live demo shows the page itself.
+- The source is presented as a standalone project so the exercise can be opened, understood, and reviewed without navigating through a larger catalogue.
+
+## Sequence
+
+**Exercise 10 of 27** · Independent practice
+
