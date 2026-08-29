@@ -1,6 +1,6 @@
 # Exercise 10 — Feature Highlights
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-10-feature-highlights/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-10-feature-highlights)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-10-feature-highlights/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ Four feature articles are organized as a grid using component classes and hover 
 ## Sequence
 
 **Exercise 10 of 27** · Independent practice
-
