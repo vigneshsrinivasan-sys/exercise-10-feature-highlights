@@ -24,4 +24,4 @@ Four feature articles are organized as a grid using component classes and hover 
 
 ## Sequence
 
-**Exercise 10 of 27** · Independent practice
+**Exercise 10** · Independent practice
